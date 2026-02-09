@@ -3,6 +3,7 @@ const translations = {
         companyName: "Sama Al Majd",
         navHome: "Home",
         navAbout: "About Us",
+        navOverview: "Overview",
         navProducts: "Products",
         navContact: "Contact",
         heroTitle: "Excellence in Textiles & Clothing",
@@ -26,12 +27,24 @@ const translations = {
         emailLabel: "Email",
         contactTagline: "Let's Do Business",
         contactSubtext: "Contact us today for the best textile deals in Libya.",
-        footerDesc: "Your trusted partner in textile imports."
+        footerDesc: "Your trusted partner in textile imports.",
+        overviewTitle: "Our Showroom",
+        overviewSubtitle: "Take a glimpse into our world of premium textiles and fabrics",
+        galleryTitle1: "Our Collection",
+        galleryDesc1: "Wide variety of premium textiles",
+        galleryTitle2: "Curtains & Drapes",
+        galleryDesc2: "Elegant curtain fabrics",
+        galleryTitle3: "Textile Rolls",
+        galleryDesc3: "Colorful fabric selection",
+        statFabrics: "Fabric Types",
+        statYears: "Years Experience",
+        statClients: "Happy Clients"
     },
     ar: {
         companyName: "سما المجد",
         navHome: "الرئيسية",
         navAbout: "من نحن",
+        navOverview: "نظرة عامة",
         navProducts: "منتجاتنا",
         navContact: "تواصل معنا",
         heroTitle: "التميز في المنسوجات والملابس",
@@ -55,7 +68,18 @@ const translations = {
         emailLabel: "البريد الإلكتروني",
         contactTagline: "لنبدأ العمل معاً",
         contactSubtext: "تواصل معنا اليوم للحصول على أفضل عروض المنسوجات في ليبيا.",
-        footerDesc: "شريككم الموثوق في استيراد المنسوجات."
+        footerDesc: "شريككم الموثوق في استيراد المنسوجات.",
+        overviewTitle: "معرضنا",
+        overviewSubtitle: "ألقِ نظرة على عالمنا من المنسوجات والأقمشة الفاخرة",
+        galleryTitle1: "مجموعتنا",
+        galleryDesc1: "تشكيلة واسعة من المنسوجات الفاخرة",
+        galleryTitle2: "الستائر والأقمشة",
+        galleryDesc2: "أقمشة ستائر أنيقة",
+        galleryTitle3: "رولات الأقمشة",
+        galleryDesc3: "مجموعة ألوان متنوعة",
+        statFabrics: "نوع قماش",
+        statYears: "سنوات خبرة",
+        statClients: "عملاء سعداء"
     }
 };
 
